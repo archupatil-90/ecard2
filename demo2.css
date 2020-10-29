@@ -3,7 +3,7 @@ body{
 }
 .mainbox{
     width:400px;
-    height:800px;
+    height:925px;
     margin: auto;
     /* position: fixed;
     left:250px; */
@@ -49,6 +49,8 @@ body{
     top: 170px;
     position: absolute;
     box-shadow: 0px 0px 10px #8080804f;
+    background-image: url(director.jpg);
+    
 }
 .mainbox .section .centerbox .img{
     width: 100px;
@@ -122,3 +124,130 @@ padding-left: 27px;
     float: left;
 }
 
+.mainbox .section2{
+    width:100%;
+    height:40px;
+}
+.mainbox .section2 .left{
+    width:50%;
+    height:39px;
+    text-align: center;
+    border-bottom: 2px solid #809fb9;
+    float: left;
+    color:#a7d5ff;
+    background-color: white;
+}
+.mainbox .section2 .right{
+    width:50%;
+    height:40px;
+    background-color: #ededed;
+    text-align: center;
+    float: left;
+    color:gray;
+}
+h2{
+    font-size: 20px;
+    vertical-align: middle;
+    
+}
+.mainbox .section2 .container{
+    width:100%;
+    height:250px;
+    margin-top: 5px;
+    float: left;
+   
+   
+}
+ .text2{
+    width: 35%;
+    height: 30px;
+    border-radius: 20px;
+    margin-left: 160px;
+    margin-top: -14px;
+    margin-right: 182px;
+    margin-bottom: 5px;
+    box-shadow: 1px 1px 5px grey;
+    float: left;
+    background-color: white;
+}
+p{
+    padding-left: 15px;
+    padding-top: 10px;
+}
+.h4{
+    margin-left: 65px;
+    margin-top: -24px;
+    font-weight: normal;
+    line-height: 10px;
+    font-size: 15px;
+    color: #8cc3cf;
+}
+.mainbox .socialicon{
+    width: 100%;
+    height: 140px;
+    padding-top: 20px;
+}
+.mainbox .socialicon .back{
+    width:50px;
+    height:50px;
+    border-radius: 25px;
+    background-color: white;
+    margin-left: 14px;
+    float: left;
+   
+}
+.mainbox .socialicon .icon{
+width: 35px;
+    height: 35px;
+    border-radius: 17px;
+    padding-left: 7px;
+    padding-top: 7px;
+    float: left;
+    
+}
+
+.mainbox .footer1{
+    width: 100%;
+    height: 60px;
+    border-top: 1px solid gray;
+    margin-top: 15px;
+    border-radius: 10px 10px 0px 0px;
+}
+.mainbox .footer1 .fimg{
+    width: 50px;
+    height: 30px;
+    padding-top: 5px;
+    float: left;
+    border-radius: 15px;
+    margin-left: 30px;
+    margin-top: 6px;
+}
+
+
+.mainbox .footer1 .fimg1{
+    width: 35px;
+    width: 50px;
+    height: 30px;
+    padding-top: 6px;
+   
+    float: left;
+    border-radius: 17px;
+    margin-left: 13px;
+    margin-top: 5px;
+
+}
+.mainbox .footer1 h3{
+    margin-left: -30px;
+}
+
+/* .footer .images{
+    width: 30px; 
+    height: 30px;
+     border-radius: 15px;
+
+} */
+span{
+    margin-left: 1px;
+    /* margin-top: 31px; */
+    padding-top: 37px;
+}
